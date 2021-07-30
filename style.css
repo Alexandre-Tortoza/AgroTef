@@ -146,6 +146,12 @@ h2{
      text-align: center;
  }
 
+ .contato{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
  footer{
      background-color: var(--cor02);
      text-align: right;
