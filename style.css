@@ -9,6 +9,9 @@
     --font-destaque:'Bebas Neue', cursive;
 }
 
+html{
+    scroll-behavior: smooth;
+}
 /* Ponta */
 
 header{
